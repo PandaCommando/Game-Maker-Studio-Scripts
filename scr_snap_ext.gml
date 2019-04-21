@@ -1,6 +1,6 @@
 ///scr_snap_ext(x,y,originx,originy,angle,amount,0[x]/1[y])
 /*
-BY: Josh Baker
+BY: Pandacommando
 
 This script will return the position of 
 coordinates snapped to an imaginary grid at any angle.
